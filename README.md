@@ -14,8 +14,8 @@ I𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚎𝚍 𝚒𝚗 𝚗𝚎𝚞𝚛𝚘𝚝𝚎𝚌�
 ###### 𝙸 𝚕𝚘𝚟𝚎 𝙾𝚂𝙸𝙽𝚃!
 
 <p>
-  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="45" />
-  <img src="https://cdn.simpleicons.org/cplusplus/FFFFFF" width="45" />
+  <img src="https://cdn.simpleicons.org/python/A0A0A0" width="45" />
+  <img src="https://cdn.simpleicons.org/cplusplus/A0A0A0" width="45" />
 </p>
 
 </div>
